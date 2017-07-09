@@ -32,7 +32,7 @@ Best App
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-<a href="#Alfred" name="Alfred">~~★~~</a>~~★★★★~~ |~~ [Alfred] ~~| ~~效率软件 Top#1，不解释~~ | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
+<a href="#Alfred" name="Alfred">~~★~~</a>~~★★★★~~ |~~[Alfred]~~| ~~效率软件 Top#1，不解释~~ | £17 | [#](https://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/)
 <a href="#1Password" name="1Password">~~★~~</a>~~★★★★~~ | [1Password] |~~密码管理，自动登录，用过就离不开了~~ | $49.99 | [#](https://www.macstories.net/reviews/1password-4-for-mac-review/)
 <a href="#Moom" name="Moom">★</a>★★★★ | [Moom] | 窗口管理，多屏切换工具 | $10 | [#](http://mac.appstorm.net/reviews/productivity-review/moom-window-management-rethought/)
 <a href="#iStat-Menus" name="iStat-Menus">★</a>★★★★ | [iStat Menus] | 实时显示系统状态、网速等 | $16 | [#](http://mac.appstorm.net/reviews/utilities/istat-menus-4-menubar-system-monitoring-improved/)
@@ -41,7 +41,7 @@ Best App
 <a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter 客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
 <a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email 客户端新秀 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
 <a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $7.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
-<a href="#OmniFocus" name="OmniFocus">~~★~~</a>~~★★★☆~~ |~~ [OmniFocus] ~~ | ~~ 著名 GTD，上手之后秒杀同类~~ | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
+<a href="#OmniFocus" name="OmniFocus">~~★~~</a>~~★★★☆~~ |~~[OmniFocus]~~ | ~~ 著名 GTD，上手之后秒杀同类~~ | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 <a href="#Keyboard-Maestro" name="Keyboard-Maestro">★</a>★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
 <a href="#PopClip" name="PopClip">★</a>★★★☆ | [PopClip] | 类 iOS 文字选中弹出 Menu 扩展 | $4.99 | [#](http://mac.appstorm.net/reviews/productivity-review/popclip-the-unexpectedly-awesome-productivity-tool/)
 <a href="#Clear" name="Clear">★</a>★★★☆ | [Clear] | 轻量级GTD工具、支持 iCloud 同步  | $9.99 | [#](https://www.macstories.net/reviews/clear-for-mac-review/)
